@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * prints_times_table - prints a multiplication table
+ * print_times_table - prints a multiplication table
  * @n: the number to be printed
- *
  * Return: number
  */
-void print_times_table(int n);
+void print_times_table(int n)
 {
 	int x, y, z;
 
